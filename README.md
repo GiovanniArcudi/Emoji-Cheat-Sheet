@@ -1,5 +1,4 @@
 # Emoji Cheat Sheet
-
 ## Table of Contents
 
 - [Smileys & Emotion](#smileys--emotion)
