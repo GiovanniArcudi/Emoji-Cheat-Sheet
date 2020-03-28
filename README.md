@@ -1,9 +1,5 @@
 # Emoji Cheat Sheet
 
-[![build](https://travis-ci.org/ikatyang/emoji-cheat-sheet.svg?branch=master)](https://travis-ci.org/ikatyang/emoji-cheat-sheet)
-
-This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
-
 ## Table of Contents
 
 - [Smileys & Emotion](#smileys--emotion)
@@ -16,6 +12,8 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Symbols](#symbols)
 - [Flags](#flags)
 - [GitHub Custom Emoji](#github-custom-emoji)
+
+---
 
 ### Smileys & Emotion
 
