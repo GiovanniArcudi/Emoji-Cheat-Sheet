@@ -177,6 +177,8 @@
 | [top](#smileys--emotion) | :right_anger_bubble: | `:right_anger_bubble:` | :thought_balloon: | `:thought_balloon:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :zzz: | `:zzz:` | | | [top](#table-of-contents) |
 
+---
+
 ### People & Body
 
 - [Hand Fingers Open](#hand-fingers-open)
@@ -379,6 +381,8 @@
 | [top](#people--body) | :speaking_head: | `:speaking_head:` | :bust_in_silhouette: | `:bust_in_silhouette:` | [top](#table-of-contents) |
 | [top](#people--body) | :busts_in_silhouette: | `:busts_in_silhouette:` | :footprints: | `:footprints:` | [top](#table-of-contents) |
 
+---
+
 ### Animals & Nature
 
 - [Animal Mammal](#animal-mammal)
@@ -484,6 +488,8 @@
 | [top](#animals--nature) | :four_leaf_clover: | `:four_leaf_clover:` | :maple_leaf: | `:maple_leaf:` | [top](#table-of-contents) |
 | [top](#animals--nature) | :fallen_leaf: | `:fallen_leaf:` | :leaves: | `:leaves:` | [top](#table-of-contents) |
 
+---
+
 ### Food & Drink
 
 - [Food Fruit](#food-fruit)
@@ -583,6 +589,8 @@
 | [top](#food--drink) | :plate_with_cutlery: | `:plate_with_cutlery:` | :fork_and_knife: | `:fork_and_knife:` | [top](#table-of-contents) |
 | [top](#food--drink) | :spoon: | `:spoon:` | :hocho: | `:hocho:` <br /> `:knife:` | [top](#table-of-contents) |
 | [top](#food--drink) | :amphora: | `:amphora:` | | | [top](#table-of-contents) |
+
+---
 
 ### Travel & Places
 
@@ -756,6 +764,8 @@
 | [top](#travel--places) | :comet: | `:comet:` | :fire: | `:fire:` | [top](#table-of-contents) |
 | [top](#travel--places) | :droplet: | `:droplet:` | :ocean: | `:ocean:` | [top](#table-of-contents) |
 
+---
+
 ### Activities
 
 - [Event](#event)
@@ -821,6 +831,8 @@
 | - | :-: | - | :-: | - | - |
 | [top](#activities) | :performing_arts: | `:performing_arts:` | :framed_picture: | `:framed_picture:` | [top](#table-of-contents) |
 | [top](#activities) | :art: | `:art:` | | | [top](#table-of-contents) |
+
+---
 
 ### Objects
 
@@ -1033,6 +1045,8 @@
 | [top](#objects) | :smoking: | `:smoking:` | :coffin: | `:coffin:` | [top](#table-of-contents) |
 | [top](#objects) | :funeral_urn: | `:funeral_urn:` | :moyai: | `:moyai:` | [top](#table-of-contents) |
 
+---
+
 ### Symbols
 
 - [Transport Sign](#transport-sign)
@@ -1219,6 +1233,8 @@
 | [top](#symbols) | :diamond_shape_with_a_dot_inside: | `:diamond_shape_with_a_dot_inside:` | :radio_button: | `:radio_button:` | [top](#table-of-contents) |
 | [top](#symbols) | :white_square_button: | `:white_square_button:` | :black_square_button: | `:black_square_button:` | [top](#table-of-contents) |
 
+---
+
 ### Flags
 
 - [Flag](#flag)
@@ -1361,6 +1377,8 @@
 | [top](#flags) | :south_africa: | `:south_africa:` | :zambia: | `:zambia:` | [top](#table-of-contents) |
 | [top](#flags) | :zimbabwe: | `:zimbabwe:` | | | [top](#table-of-contents) |
 
+---
+
 ### GitHub Custom Emoji
 
 | | ico | shortcode | ico | shortcode | |
@@ -1376,3 +1394,6 @@
 | [top](#github-custom-emoji) | :shipit: | `:shipit:` <br /> `:squirrel:` | :suspect: | `:suspect:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :trollface: | `:trollface:` | | | [top](#table-of-contents) |
 
+---
+
+© Adapted from [@ikatyang](https://github.com/ikatyang) (Ika).
